@@ -38,4 +38,6 @@ The model has an accuracy of **97.62%**
 
 > ![wb diag](https://user-images.githubusercontent.com/68746915/99891551-20f8fa00-2c91-11eb-9a68-eb18800563d3.png)
 
+https://www.loom.com/share/588ae33cb9e64663abb59bd4c32bdbbd?sid=acf60fcb-41f1-4b42-8cad-8ed2c414b6a9
+
 
